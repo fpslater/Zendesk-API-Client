@@ -1,0 +1,25 @@
+Using the REST client here http://github.com/archiloque/rest-client
+
+I wrote a Zendesk API client that:
+
+ 
+
+1. Creates a user
+
+2. Creates a ticket with that user as requester
+
+3. Marks that ticket as solved (not implemented)
+
+ 
+
+You can create a Zendesk account by signing up at http://www.zendesk.com/
+
+ 
+
+There is more information about the Zendesk API available here...
+
+  http://www.zendesk.com/api/
+
+and the documentation specifically for the REST interface...
+
+  http://www.zendesk.com/api/rest-introduction  
